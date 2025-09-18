@@ -1,4 +1,5 @@
 # Cost Of Betrayal
+- Telltale-Inspired Story Game
 - IN DEVELOPMENT
 --------------------
 
