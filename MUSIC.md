@@ -22,3 +22,5 @@
 19 - El Coyote: Music for Castro in any conversations relating to him not concering combat
 20 - Battle Between Brothers:  [Encounter specific theme]
 21 - Betrayal: Very sad sounding track that'll play whenever the past between Carl and Castro comes up
+22 - Alt Title Theme 2: Extremely depressing and slowed down version of the title theme
+23 - Sit Theme: Want a slow and muted sounding western song to use for the Github Site
