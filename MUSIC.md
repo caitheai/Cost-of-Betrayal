@@ -15,12 +15,14 @@
 12 - The Reaper: Reaper's Pass music before encountering El Charon
 13 - Pancho: [Encounter specific theme]
 14 - Terranova: much more late-night vibes than El Puente, town more sleezy
-15 - Heart to Heart: [Encounter specific theme]
-16 - Alt Title Theme 1: Alternative Title Theme to be played once the player has a save at Terranova or later, much more musical yet also more sad, piano typing track
-17 - End Of The Journey: Music for right side of El Cielo Muerto duing outside walking segments
-18 - Cuna De Lobos: Music for the final cave area
-19 - El Coyote: Music for Castro in any conversations relating to him not concering combat
-20 - Battle Between Brothers:  [Encounter specific theme]
-21 - Betrayal: Very sad sounding track that'll play whenever the past between Carl and Castro comes up
-22 - Alt Title Theme 2: Extremely depressing and slowed down version of the title theme
-23 - Sit Theme: Want a slow and muted sounding western song to use for the Github Site
+15 - Late Night: Music for the desert late at night for certain themes in El Puente
+16 - Bar Theme 2: Different bar music that'll work both in a bar, and during possible drunk side quests in town
+17 - Heart to Heart: [Encounter specific theme]
+18 - Alt Title Theme 1: Alternative Title Theme to be played once the player has a save at Terranova or later, much more musical yet also more sad, piano typing track
+19 - End Of The Journey: Music for right side of El Cielo Muerto duing outside walking segments
+20 - Cuna De Lobos: Music for the final cave area
+21 - El Coyote: Music for Castro in any conversations relating to him not concering combat
+22 - Battle Between Brothers:  [Encounter specific theme]
+23 - Betrayal: Very sad sounding track that'll play whenever the past between Carl and Castro comes up
+24 - Alt Title Theme 2: Extremely depressing and slowed down version of the title theme
+25 - Site Theme: Want a slow and muted sounding western song to use for the Github Site
