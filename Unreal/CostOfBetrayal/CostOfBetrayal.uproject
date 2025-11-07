@@ -15,6 +15,10 @@
 			"Name": "DiscordRpc",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b6e233cab7f149599033d045b18a7dc1"
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
